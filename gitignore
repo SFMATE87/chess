@@ -1,0 +1,36 @@
+# Compiled binaries
+chess
+chess.exe
+*.o
+*.obj
+*.out
+
+# Visual Studio build artifacts
+x64/
+Debug/
+Release/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.cd
+*.idb
+*.pdb
+*.log
+*.recipe
+*.tlog
+*.enc
+
+# VS folders
+.vs/
+ipch/
